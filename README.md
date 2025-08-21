@@ -14,7 +14,7 @@ Mỗi project là một cột mốc gắn với ký ức, niềm vui hoặc nỗ
 
 ---
 
-## Hành trình phát triển & cảm xúc
+## Hành trình phát triển & và những thăng trầm
 
 - **2019 (11 tuổi)**  
   Bắt đầu với **Lua** và **Game Guardian**.  

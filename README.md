@@ -80,9 +80,3 @@ Fiona chỉ là khởi đầu.
 Con đường phía trước vẫn còn rất dài.  
 
 ---
-
-## Liên hệ
-
-- GitHub: [@hngocuyen](https://github.com/hngocuyen)  
-- Dự án nổi bật: [Velimatix Obfuscator](https://github.com/hngocuyen/velimatix-obfuscator)  
-- Dự án nổi bật: [Enjuly19](https://github.com/hngocuyen/enjuly19)  
